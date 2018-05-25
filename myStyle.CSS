@@ -1,0 +1,7 @@
+//this is a single line comment 
+ /* this is a multi-single comment */
+ // we will choose body back-ground color
+ 
+ body{
+     background-color: #FF0000;
+     }
